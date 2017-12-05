@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGray">#c2b8bc</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="pe_bg_light_blue">#E6EBEF</color>
+    <color name="gray">#7c7c7c</color>
+    <color name="black">#000000</color>
+    <color name="tab_top_line_color">#d4d5d7</color>
+    <color name="transparent">#00000000</color> <!-- 透明 -->
+</resources>
